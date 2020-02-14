@@ -1,0 +1,566 @@
+[
+    {
+        "productName": "Samsung Galaxy S10 SM-G973 128GB Prism Black",
+        "price": 2678,
+        "mediaexpertPrice": 3299,
+        "euroPrice": 3299,
+        "mediamarktPrice": 3299,
+        "totalOffers": 44,
+        "maxPrice": 4257,
+        "minPrice": 2554,
+        "allOffers": [
+            {
+                "retailer": "vobis.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "electro.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "avans.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "afgmarket.pl",
+                "price": 2554
+            },
+            {
+                "retailer": "twoj-smartfon.pl",
+                "price": 2589
+            },
+            {
+                "retailer": "blue-phone.pl",
+                "price": 2595
+            },
+            {
+                "retailer": "e-smartphone.pl",
+                "price": 2649
+            },
+            {
+                "retailer": "beststore.pl",
+                "price": 2667
+            },
+            {
+                "retailer": "deluxury.pl",
+                "price": 2678
+            },
+            {
+                "retailer": "mobile-city.pl",
+                "price": 2679
+            },
+            {
+                "retailer": "tele-port.com.pl",
+                "price": 2739
+            },
+            {
+                "retailer": "r-kom.pl",
+                "price": 2798
+            },
+            {
+                "retailer": "siglo.pl",
+                "price": 2899
+            },
+            {
+                "retailer": "empik.com",
+                "price": 3097
+            },
+            {
+                "retailer": "proshop.pl",
+                "price": 3149
+            },
+            {
+                "retailer": "mall.pl",
+                "price": 3149
+            },
+            {
+                "retailer": "carrefour.pl",
+                "price": 3199
+            },
+            {
+                "retailer": "morele.net",
+                "price": 3288
+            },
+            {
+                "retailer": "x-kom.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "neo24.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "oleole.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "al.to",
+                "price": 3299
+            },
+            {
+                "retailer": "neonet.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "mediaexpert.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "matrixmedia.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "4cv.sklep.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "nokiaskleponline.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "bmobile.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "euro.com.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "mediamarkt.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "play.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "redcoon.pl",
+                "price": 3499
+            },
+            {
+                "retailer": "orange.pl",
+                "price": 3499
+            },
+            {
+                "retailer": "eukasa.pl",
+                "price": 3505
+            },
+            {
+                "retailer": "net-s.pl",
+                "price": 3793
+            },
+            {
+                "retailer": "zadowolenie.pl",
+                "price": 3908
+            },
+            {
+                "retailer": "technikalia.pl",
+                "price": 3947
+            },
+            {
+                "retailer": "ale.pl",
+                "price": 4004
+            },
+            {
+                "retailer": "abarta.pl",
+                "price": 4024
+            },
+            {
+                "retailer": "alsen.pl",
+                "price": 4101
+            },
+            {
+                "retailer": "micronpro.pl",
+                "price": 4101
+            },
+            {
+                "retailer": "sklepares.pl",
+                "price": 4180
+            },
+            {
+                "retailer": "xerima.com.pl",
+                "price": 4218
+            },
+            {
+                "retailer": "kakto.pl",
+                "price": 4257
+            }
+        ]
+    },
+    {
+        "productName": "Samsung Galaxy S10 SM-G973 128GB Prism Black",
+        "price": 2678,
+        "mediaexpertPrice": 3299,
+        "euroPrice": 3299,
+        "mediamarktPrice": 3299,
+        "totalOffers": 44,
+        "maxPrice": 4257,
+        "minPrice": 2554,
+        "allOffers": [
+            {
+                "retailer": "vobis.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "electro.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "avans.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "afgmarket.pl",
+                "price": 2554
+            },
+            {
+                "retailer": "twoj-smartfon.pl",
+                "price": 2589
+            },
+            {
+                "retailer": "blue-phone.pl",
+                "price": 2595
+            },
+            {
+                "retailer": "e-smartphone.pl",
+                "price": 2649
+            },
+            {
+                "retailer": "beststore.pl",
+                "price": 2667
+            },
+            {
+                "retailer": "deluxury.pl",
+                "price": 2678
+            },
+            {
+                "retailer": "mobile-city.pl",
+                "price": 2679
+            },
+            {
+                "retailer": "tele-port.com.pl",
+                "price": 2739
+            },
+            {
+                "retailer": "r-kom.pl",
+                "price": 2798
+            },
+            {
+                "retailer": "siglo.pl",
+                "price": 2899
+            },
+            {
+                "retailer": "empik.com",
+                "price": 3097
+            },
+            {
+                "retailer": "proshop.pl",
+                "price": 3149
+            },
+            {
+                "retailer": "mall.pl",
+                "price": 3149
+            },
+            {
+                "retailer": "carrefour.pl",
+                "price": 3199
+            },
+            {
+                "retailer": "morele.net",
+                "price": 3288
+            },
+            {
+                "retailer": "x-kom.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "neo24.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "oleole.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "al.to",
+                "price": 3299
+            },
+            {
+                "retailer": "neonet.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "mediaexpert.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "matrixmedia.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "4cv.sklep.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "nokiaskleponline.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "bmobile.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "euro.com.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "mediamarkt.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "play.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "redcoon.pl",
+                "price": 3499
+            },
+            {
+                "retailer": "orange.pl",
+                "price": 3499
+            },
+            {
+                "retailer": "eukasa.pl",
+                "price": 3505
+            },
+            {
+                "retailer": "net-s.pl",
+                "price": 3793
+            },
+            {
+                "retailer": "zadowolenie.pl",
+                "price": 3908
+            },
+            {
+                "retailer": "technikalia.pl",
+                "price": 3947
+            },
+            {
+                "retailer": "ale.pl",
+                "price": 4004
+            },
+            {
+                "retailer": "abarta.pl",
+                "price": 4024
+            },
+            {
+                "retailer": "alsen.pl",
+                "price": 4101
+            },
+            {
+                "retailer": "micronpro.pl",
+                "price": 4101
+            },
+            {
+                "retailer": "sklepares.pl",
+                "price": 4180
+            },
+            {
+                "retailer": "xerima.com.pl",
+                "price": 4218
+            },
+            {
+                "retailer": "kakto.pl",
+                "price": 4257
+            }
+        ]
+    },
+    {
+        "productName": "Samsung Galaxy S10 SM-G973 128GB Prism Black",
+        "price": 2678,
+        "mediaexpertPrice": 3299,
+        "euroPrice": 3299,
+        "mediamarktPrice": 3299,
+        "totalOffers": 44,
+        "maxPrice": 4257,
+        "minPrice": 2554,
+        "allOffers": [
+            {
+                "retailer": "vobis.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "electro.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "avans.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "afgmarket.pl",
+                "price": 2554
+            },
+            {
+                "retailer": "twoj-smartfon.pl",
+                "price": 2589
+            },
+            {
+                "retailer": "blue-phone.pl",
+                "price": 2595
+            },
+            {
+                "retailer": "e-smartphone.pl",
+                "price": 2649
+            },
+            {
+                "retailer": "beststore.pl",
+                "price": 2667
+            },
+            {
+                "retailer": "deluxury.pl",
+                "price": 2678
+            },
+            {
+                "retailer": "mobile-city.pl",
+                "price": 2679
+            },
+            {
+                "retailer": "tele-port.com.pl",
+                "price": 2739
+            },
+            {
+                "retailer": "r-kom.pl",
+                "price": 2798
+            },
+            {
+                "retailer": "siglo.pl",
+                "price": 2899
+            },
+            {
+                "retailer": "empik.com",
+                "price": 3097
+            },
+            {
+                "retailer": "proshop.pl",
+                "price": 3149
+            },
+            {
+                "retailer": "mall.pl",
+                "price": 3149
+            },
+            {
+                "retailer": "carrefour.pl",
+                "price": 3199
+            },
+            {
+                "retailer": "morele.net",
+                "price": 3288
+            },
+            {
+                "retailer": "x-kom.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "neo24.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "oleole.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "al.to",
+                "price": 3299
+            },
+            {
+                "retailer": "neonet.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "mediaexpert.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "matrixmedia.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "4cv.sklep.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "nokiaskleponline.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "bmobile.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "euro.com.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "mediamarkt.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "play.pl",
+                "price": 3299
+            },
+            {
+                "retailer": "redcoon.pl",
+                "price": 3499
+            },
+            {
+                "retailer": "orange.pl",
+                "price": 3499
+            },
+            {
+                "retailer": "eukasa.pl",
+                "price": 3505
+            },
+            {
+                "retailer": "net-s.pl",
+                "price": 3793
+            },
+            {
+                "retailer": "zadowolenie.pl",
+                "price": 3908
+            },
+            {
+                "retailer": "technikalia.pl",
+                "price": 3947
+            },
+            {
+                "retailer": "ale.pl",
+                "price": 4004
+            },
+            {
+                "retailer": "abarta.pl",
+                "price": 4024
+            },
+            {
+                "retailer": "alsen.pl",
+                "price": 4101
+            },
+            {
+                "retailer": "micronpro.pl",
+                "price": 4101
+            },
+            {
+                "retailer": "sklepares.pl",
+                "price": 4180
+            },
+            {
+                "retailer": "xerima.com.pl",
+                "price": 4218
+            },
+            {
+                "retailer": "kakto.pl",
+                "price": 4257
+            }
+        ]
+    }
+]
