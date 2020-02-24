@@ -30,4 +30,4 @@ and
 redis-cli -h redis
 ```
 
-All arguments ( PDP urls ) are passed to app with npm script "start" if you wan't to change values just add o remove urls in package.json
+All arguments ( PDP urls ) are passed to app with npm script "start" if you wan't to change values just add or remove urls in package.json
