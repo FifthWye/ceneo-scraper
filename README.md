@@ -13,5 +13,10 @@ docker run -d -p 6379:6379 --name redis1 redis
 then
 
 ```
+docker exec -it redis1 sh
+```
+
+and
+```
 redis-cli -h redis
 ```

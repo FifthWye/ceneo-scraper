@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app",
-    "run-arena": "node arenaServer.js"
+    "start": "node src/app.js https://www.ceneo.pl/76367847 https://www.ceneo.pl/87825152 https://www.ceneo.pl/85615932",
+    "arena": "node src/arenaServer.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,7 +14,6 @@
     "bull-arena": "^2.7.1",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
-    "puppeteer": "^2.1.1",
-    "uuid": "^3.4.0"
+    "puppeteer": "^2.1.1"
   }
 }
