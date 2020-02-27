@@ -1,0 +1,6 @@
+*
+*/
+!.gitignore
+
+# I didn't find a proper way how to ignore all files in folder 
+# except the parent folder so I just added another gitignore file which excludes all folder inner
