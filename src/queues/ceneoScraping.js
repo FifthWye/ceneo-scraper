@@ -15,13 +15,13 @@ ceneoScrapingQueue.on("completed", (job, result) => {
   const dir = "src/data/ceneoScraperData/";
   fs.readdir(dir, err => {
     const newFileName = job.data.url.match(/[^\/]+$/)[0];
-    if (err) reject(err);
+    if (err) console.log(err);
 
     fs.writeFile(
       dir + newFileName + ".json",
       JSON.stringify(result, null, 4),
       "utf8",
-      function(err) {
+      function (err) {
         if (err) reject(err);
       }
     );
